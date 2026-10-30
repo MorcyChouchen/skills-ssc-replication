@@ -1,0 +1,68 @@
+pair_id,repo,verdict,reason
+0,TrololoBird/Crypto-Analytic-Signal-Bot,no change of security semantics,test file list in a command
+2,rwalker123/ootp-db,no change of security semantics,adds defense rating table to a report skill
+3,rwalker123/ootp-db,no change of security semantics,report uses active save name instead of a fixed one
+4,rwalker123/ootp-db,no change of security semantics,example player names
+5,rwalker123/ootp-db,no change of security semantics,removes a hard-coded local path
+6,rwalker123/ootp-db,no change of security semantics,refactor of a helper call
+7,rwalker123/ootp-db,no change of security semantics,refactor of a helper call
+8,rwalker123/ootp-db,no change of security semantics,career-stats query moved from the text into a function
+10,wolfspelz/futr,no change of security semantics,adds numbered steps for reloading data
+11,wolfspelz/futr,no change of security semantics,shortens a debugging hint
+12,ibes/emsig,no change of security semantics,description names another skill
+14,mderk/memento,no change of security semantics,path .claude to .agents
+15,majiayu000/claude-skill-registry-data,no change of security semantics,adds front matter with a number as name
+16,YannicAmir/ai-system-flutter,no change of security semantics,path .github to .claude
+17,utexasscott/claude-assistant,no change of security semantics,"adds metadata visibility: public (describes the skill, not the agent)"
+18,a5c-ai/babysitter,no change of security semantics,"adds graph metadata, blank lines"
+19,a5c-ai/babysitter,no change of security semantics,metadata and blank lines
+20,a5c-ai/babysitter,no change of security semantics,metadata and blank lines
+21,a5c-ai/babysitter,no change of security semantics,blank lines removed
+22,lookbusy1344/RecordValueAnalyser,borderline,removes the time limit 'gtimeout 120' and a formatting note before the build command
+25,enesj/single-tenant-template,no change of security semantics,"restart through a tool instead of a shell command (not an SSC, decided earlier)"
+27,enesj/single-tenant-template,no change of security semantics,"restart through a shell command instead of a tool; tags moved under metadata (not an SSC, decided earlier)"
+28,enesj/single-tenant-template,no change of security semantics,body replaced by a pointer to another skill file; no security content in the old text
+29,ElasticRun/dont-b-mad,no change of security semantics,"workflow path changed (not an SSC, decided earlier)"
+30,DexForce/EmbodiChain,no change of security semantics,checklist replaced by a pointer to a canonical skill; the old text only had code-style checks
+32,galando/piv-speckit,no change of security semantics,plugin path variable
+33,galando/piv-speckit,no change of security semantics,plugin path variable
+34,galando/piv-speckit,no change of security semantics,plugin path variable
+35,first-fluke/fullstack-starter,cannot be verified,whole body replaced by a pointer to .agents/workflows/debug.md; the old text asked for user confirmation before applying a fix; target file not available
+36,first-fluke/fullstack-starter,no change of security semantics,description wording
+37,first-fluke/fullstack-starter,no change of security semantics,description formatting
+38,first-fluke/fullstack-starter,no change of security semantics,description wording
+39,andreaskelm/pm-brain,no change of security semantics,path of the source skill
+40,a5c-ai/babysitter,no change of security semantics,"graph metadata, blank lines"
+41,a5c-ai/babysitter,no change of security semantics,"metadata, blank lines"
+42,a5c-ai/babysitter,no change of security semantics,"metadata, blank lines"
+43,a5c-ai/babysitter,no change of security semantics,blank lines removed
+44,TheBeardedBearSAS/claude-craft,no change of security semantics,reference path
+45,dexter-cnx/agent-engineering-toolkit,no change of security semantics,"architecture rules and 'reject when' list removed; no tools, permissions or data rules"
+46,dexter-cnx/agent-engineering-toolkit,no change of security semantics,skill marked deprecated with pointers
+47,detorresramos/CaramelDB,no change of security semantics,agent line replaced by a call instruction
+48,detorresramos/CaramelDB,no change of security semantics,adds an instruction to call the simplifier agent with a fixed prompt
+49,txdat/.dotfiles,no change of security semantics,model alias to full name
+50,txdat/.dotfiles,no change of security semantics,path
+51,txdat/.dotfiles,no change of security semantics,description rewritten (says read-only exploration); model alias
+52,txdat/.dotfiles,no change of security semantics,adds effort: medium
+54,brunns/rss-agg,no change of security semantics,description wording
+55,victusfate/boomerang,no change of security semantics,description wording
+58,cameronlaxton/Omega,no change of security semantics,git show replaced by git cat-file (same effect)
+59,cameronlaxton/Omega,no change of security semantics,reference to a skill replaced by a script
+61,cameronlaxton/Omega,no change of security semantics,scripts replaced by console commands; paths
+64,brief-onchain/skillshub,no change of security semantics,description and sample config with endpoints
+66,Automattic/wordpress-activitypub,no change of security semantics,adds version number conventions
+67,Automattic/wordpress-activitypub,no change of security semantics,conventions text removed
+68,mackeper/dotfiles,no change of security semantics,"adds search steps (use web search first, cite sources)"
+69,stephenhoward/pavillion,no change of security semantics,relative link
+70,rhuanbarros/bagual-skills,no change of security semantics,front matter spacing
+71,clankercode/clawq,no change of security semantics,review instruction wording
+72,txdat/.dotfiles,no change of security semantics,model name
+73,txdat/.dotfiles,no change of security semantics,model name
+74,txdat/.dotfiles,no change of security semantics,path
+75,txdat/.dotfiles,no change of security semantics,description wording
+76,txdat/.dotfiles,no change of security semantics,model name
+77,txdat/.dotfiles,no change of security semantics,model name
+78,txdat/.dotfiles,no change of security semantics,model name
+79,txdat/.dotfiles,no change of security semantics,model name
+80,StevanusPangau/ai-skills-guide,no change of security semantics,version number
