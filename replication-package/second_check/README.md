@@ -11,4 +11,4 @@ Result: 65 pairs contain no change of security semantics. 2 pairs need discussio
 - pair 22: the time limit `gtimeout 120` was removed from a build command (borderline: a bound on execution time).
 - pair 35: the body was replaced by a pointer to `.agents/workflows/debug.md`; the old text asked the agent to get user confirmation before applying a fix. The target file is not in our data, so we cannot tell whether the step still exists.
 
-Limits: the second judge is a language model and no second human has read the results yet; texts only (not agent behaviour).
+Limits: the second judge is a language model and the first author read the results and agreed with them; texts only (not agent behaviour).
